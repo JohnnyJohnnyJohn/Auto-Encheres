@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,EAAG,CACC,KAAK,CAAE,KAAK,CAGhB,OAAO,CACH,MAAM,CAAE,OAAO,CAGnB,aAAc,CACV,UAAU,CAAE,aAAa,CAG7B,MAAO,CACH,UAAU,CAAE,4BAA8B",
+"sources": ["../../Src/Scss/auto-enchere.scss"],
+"names": [],
+"file": "auto-encheres.min.css"
+}
