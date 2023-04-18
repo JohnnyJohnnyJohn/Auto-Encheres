@@ -63,7 +63,7 @@
                                         <tr>
                                             <th scope="row">Prix de départ</th>
                                             <td>
-                                                <?= $prix_depart; ?> €
+                                                <?= $outil->formalizeEuro($prix_depart); ?>
                                             </td>
                                         </tr>
                                     </tbody>
