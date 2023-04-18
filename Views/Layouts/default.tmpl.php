@@ -17,7 +17,7 @@
     <link type="image/png" sizes="16x16" rel="icon" href="imgs/Auto-Encheres-16.png">
     <link type="image/png" sizes="32x32" rel="icon" href="imgs/Auto-Encheres-32.png">
 </head>
-<body style="background-image: url('imgs/bg.jpg'); background-size: cover;">
+<body style="background-image: url('imgs/bg.webp'); background-size: cover;">
 <?php
     require_once(__DIR__ . '/../Partials/header.tmpl.php');
 ?>
