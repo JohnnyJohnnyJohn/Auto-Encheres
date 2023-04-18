@@ -164,7 +164,7 @@ final class Outils {
     {
         //$fmt = numfmt_create( 'fr_FR', NumberFormatter::CURRENCY );
         //return numfmt_format_currency($fmt, $montant, "EUR");
-        return $montant . '.00 &euro;';
+        return $montant . ' &euro;';
     }
 
 }
