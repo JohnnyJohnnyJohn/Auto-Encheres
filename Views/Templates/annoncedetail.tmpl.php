@@ -1,19 +1,5 @@
 <?php extract($data['annonce']); ?>
 
-<style>
-    th {
-        width: 150px;
-    }
-
-    #inputMontant {
-        transition: background 1s;
-    }
-
-    .error {
-        background: rgba(222, 0, 0, .8) !important;
-    }
-</style>
-
 <main class="container my-5 py-5">
     <div class="row">
         <div class="col mt-3">
