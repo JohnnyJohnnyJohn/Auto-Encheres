@@ -1,7 +1,3 @@
-<?php
-
-?>
-
 <footer class="footer mt-auto fixed-bottom py-3 ps-5 text-bg-dark bg-gradient d-flex shadow">
     <div class="container text-center ms-5">
         <span class="ms-5">Johnny Joe © 2023</span>
